@@ -1,0 +1,23 @@
+{
+  "settingsReloadIntervalMinutes": 60,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://travis-ci.com/dashboard/builds",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 120
+    },
+    {
+      "url": "https://console.aws.amazon.com/billing/home?region=eu-central-1#/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 180
+    },
+    {
+      "url": "https://calendar.google.com/calendar/r/week?pli=1",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 240
+    }
+  ]
+}
